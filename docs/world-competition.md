@@ -55,9 +55,10 @@ _Unless otherwise specified, all dates use the [Anywhere on Earth](https://en.wi
 
 
 * **June 1st:** Open Tournament Registration Form
-* **June 16th:** Tournament Registration Deadline
-* **June 16th:** Open Tournament Submission Form
-    * You will receive account credentials for submitting your code *
+* Tournament Registration Deadline
+    * Extended to **June 26th**
+* **June 27th:** Open Tournament Submission Form
+    * You will receive account credentials for submitting your code
 * **July 1st:** Technical Challenge 1 & 2 Handout
 * **July 15th:** Challenge 1 & 2 Deadline
 * **July 16th:** Team Description Paper Deadline
