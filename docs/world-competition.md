@@ -58,8 +58,8 @@ _Unless otherwise specified, all dates use the [Anywhere on Earth](https://en.wi
 * Tournament Registration Deadline
     * Extended to **June 26th**
 * **July 12th:** Tournament Submission Deadline
-* **July 1st:** Technical Challenge 1 & 2 Handout
-* **July 15th:** Challenge 1 & 2 Deadline
+* **July 6th:** Technical Challenge 1 & 2 Handout
+* **July 20th:** Challenge 1 & 2 Deadline
 * **July 16th:** Team Description Paper Deadline
     * Upload at [https://forms.gle/QNicHdDiKR33W2rX6](https://forms.gle/QNicHdDiKR33W2rX6)
 * **July 17th .. 20th:** Publishing Tournament Results
@@ -68,6 +68,11 @@ _Unless otherwise specified, all dates use the [Anywhere on Earth](https://en.wi
 ## Team description paper upload form
 
 Upload your papers at [https://forms.gle/QNicHdDiKR33W2rX6](https://forms.gle/QNicHdDiKR33W2rX6)
+
+## Technical challenges 
+
+* Technical Challenge 1 - [Download PDF](tc/Technical_Challenge_1.pdf)
+* Technical Challenge 2 - [Download PDF](tc/Technical_Challenge_2.pdf)
 
 ## Registration
 
