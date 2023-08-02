@@ -9,4 +9,7 @@ nav:
   - Code Submission: "code-submission.md"
   - Submission check: "submission-check.md"
   - SoccerSim World Championship 2023: "world-competition.md"
-
+  - SoccerSim World Championship 2023 results:
+    - Technical Challenge Results: "results/tech-challenges.md"
+    - Team Description Papers: "results/tdps.md"
+    - Games: "results/games.md"
