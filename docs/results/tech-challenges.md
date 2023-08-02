@@ -5,6 +5,7 @@
 Download assignment in [PDF](https://robocup-junior.github.io/soccer-2023/tc/Technical_Challenge_1.pdf)
 
 **Standings**
+
 |Place    |Team     |Score|
 |---------|---------|-----|
 |1st place|def End  |2    |
